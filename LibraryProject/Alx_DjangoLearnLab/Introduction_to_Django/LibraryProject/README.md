@@ -1,1 +1,8 @@
-# LibraryProject - Django Setup
+\# LibraryProject
+
+
+
+Django learning project for ALX.
+
+
+
